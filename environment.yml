@@ -1,0 +1,8 @@
+name: streamlit-yfinance-conn-env
+channels:
+  - conda-forge
+dependencies:
+  - ipykernel
+  - python-dotenv
+  - streamlit
+  - yfinance
